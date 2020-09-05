@@ -21,6 +21,6 @@ var Select=()=>{
                 </div>
             </div>
         </div>
-    )
+    );
 }
-export default Select
+export default Select;
