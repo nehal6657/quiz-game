@@ -4,15 +4,13 @@ body{
 }
 
 #title{
-    width: 50%;
-    padding: 1rem;
-    margin: 0.5rem;
-    background-color: #4158D0;
-    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
-
+    text-align: center;
 }
+
 .card{
     margin-top: 12rem;
     border-style: double;
     border-color: black;
+    align-content: center;
+    text-align: center;
 }
