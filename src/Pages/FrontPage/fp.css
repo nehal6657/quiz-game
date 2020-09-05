@@ -1,0 +1,18 @@
+body{
+    background-image: radial-gradient( circle 403px at 51.3% 0.3%,  rgba(103,210,217,1) 0%, rgba(102,170,192,1) 100.2% );
+    background-repeat: no-repeat;
+}
+
+#title{
+    width: 50%;
+    padding: 1rem;
+    margin: 0.5rem;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+
+}
+.card{
+    margin-top: 12rem;
+    border-style: double;
+    border-color: black;
+}
